@@ -1,1 +1,1 @@
-# Homework-5
+Website creates a timetable of inputs, which can be edited by the user, and saved by the savve button. the color of the input's change depending on what time it is. 
